@@ -2,7 +2,7 @@
 #@iTrickzGG
 #March 7-8 2017
 clear
-echo "What Would You Like To Do Today?"
+echo "What Would You Like To Do Today??"
 echo "Please Run "Setup" For The First Time"
 echo "@iTrickzGG"
 echo "================================================="
