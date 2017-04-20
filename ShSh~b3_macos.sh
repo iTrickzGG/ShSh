@@ -83,7 +83,7 @@ echo "[*] Model/BoardConfig"
 echo "ex model : iPhone8,1"
 echo "ex boardconfig : n71map"
 echo "[https://www.theiphonewiki.com/wiki/Models]"
-read -r -p "Would You Like To Open the Webpage? [y/N] " response
+read -r -p "Would You Like To Open The Webpage? [y/N] " response
 elif [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
 	then
 open -a "Safari" https://www.theiphonewiki.com/wiki/Models
