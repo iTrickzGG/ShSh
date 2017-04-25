@@ -97,7 +97,7 @@ echo "[UDID Calculator]"
 echo "Download Said App From Cydia"
 echo "FOUND ON BIGBOSS REPO"
 echo "END------------------------------------>"
-if [ "$a" = "2" ]
+elif [ "$a" = "2" ]
 then
 cd ~/Desktop/ShShb3
 echo "Let's Start"
